@@ -1,1 +1,2 @@
-# racing-game-getting-good
+# C39RV_SpeedRacer_StudentActivity
+Student Activity
